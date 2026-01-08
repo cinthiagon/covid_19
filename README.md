@@ -28,7 +28,9 @@ jupyter notebook
 ```
 
 Em seguida, abra o arquivo **`script.ipynb`** e execute todas as células sequencialmente.  
-Os csv necessários (`PNAD_COVID_052020.csv`, `PNAD_COVID_062020.csv`, `PNAD_COVID_072020.csv`) já estarão disponíveis no repositório para fins do exercício.
+Os csv necessários (`PNAD_COVID_052020.csv`, `PNAD_COVID_062020.csv`, `PNAD_COVID_072020.csv`) devem ser baixados do link a seguir para fins do exercício: 
+
+https://ftp.ibge.gov.br/Trabalho_e_Rendimento/Pesquisa_Nacional_por_Amostra_de_Domicilios_PNAD_COVID19/Microdados/Dados/
 
 
 ---
@@ -57,13 +59,14 @@ Este projeto responde a essas questões utilizando dados públicos e confiáveis
 
 ⚠️ **Observação para fins do exercício**
 
-Para facilitar a reprodução deste projeto no contexto acadêmico e de portfólio, **os seguintes arquivos de dados serão disponibilizados neste repositório**:
+Para reproduzir este projeto no contexto acadêmico e de portfólio, **os seguintes arquivos de dados devem ser baixados**:
 
 - `PNAD_COVID_052020.csv`
 - `PNAD_COVID_062020.csv`
 - `PNAD_COVID_072020.csv`
-
-Esses arquivos correspondem aos **três meses utilizados na análise**, conforme especificação do Tech Challenge, e permitem a execução completa do notebook sem necessidade de download adicional junto ao IBGE.
+- Fonte: https://ftp.ibge.gov.br/Trabalho_e_Rendimento/Pesquisa_Nacional_por_Amostra_de_Domicilios_PNAD_COVID19/Microdados/Dados/
+  
+Esses arquivos correspondem aos **três meses utilizados na análise**, conforme especificação do Tech Challenge, e permitem a execução completa do notebook.
 
 
 ---
